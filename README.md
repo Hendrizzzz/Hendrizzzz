@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 First-year computer science student at Saint Louis University, Baguio City. Interested in problem-solving, coding competitions, and collaborative projects.
+🎓 First-year Computer Science student at Saint Louis University, Baguio City. Interested in problem-solving, coding competitions, and collaborative projects.
 
 
 ## 🌐 Socials:
