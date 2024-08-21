@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 First-year Computer Science student at Saint Louis University, Baguio City. 
+🎓 Second-year Computer Science student at Saint Louis University, Baguio City. 
 
 
 ## 🌐 Socials:
