@@ -1,24 +1,85 @@
-# 💫 About Me:
-🎓 Second-year Computer Science student at Saint Louis University, Baguio City. 
+<div align="center">
 
+# Hi 👋, I'm Hendrix
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100012185675300) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hendrixxzzxjim/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/jim-hendrix-bag-eo)
+3rd year CS student at Saint Louis University, based in Baguio.  
+I build browser tools, desktop workflows, and backend systems.
 
+I like shipping things that solve annoying problems and figuring out the hard parts when they break.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-# 📊 GitHub Stats:
-![]([https://github-readme-stats.vercel.app](https://github-readme-stats.vercel.app)/api?username=Hendrizzzz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hendrizzzz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hendrizzzz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hendrizzzz&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="./cover.jpg" alt="Hendrix banner" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hendrizzzz&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/Hendrizzzz"><img src="https://img.shields.io/badge/GitHub-Hendrizzzz-181717?style=flat-square&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/jim-hendrix-bag-eo/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin" />
+  <a href="mailto:jimhendrixbageo@email.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail" /></a>
+</p>
+
+## What I’m strongest at
+
+Java / Spring Boot, Chrome extensions, JS / browser internals, Electron, debugging, and system thinking.
+
+## Currently building
+
+- OmniLaunch, a USB-based portable workspace app
+- Ghostify docs, demos, and polish
+- Social app rating
+
+## Featured work
+
+### [Ghostify](https://github.com/Hendrizzzz/Ghostify)
+Chrome extension for FB/IG/Messenger privacy. Hides seen receipts, typing indicators, and story views. Already live with real users.
+
+<p align="center">
+  <img src="large_tile_1400x560.png" alt="Ghostify preview" />
+</p>
+
+What I built:
+- Intercepts browser behavior in the page context
+- Uses Chrome extension APIs and request handling
+- Handles WebSocket inspection for Messenger behavior
+- Shipped on Chrome Web Store and Microsoft Edge Add-ons
+
+Links:
+- Live: [Chrome Web Store](https://chromewebstore.google.com/detail/ghostify-hide-seen-typing/flpnibonbhdmnpgflnbemgghghhblmpm?hl=en&authuser=1)
+- Live: [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/ghostify-hide-seen-typ/mgbppdkolkeelimnemlbpmfdddhoeeal)
+- Demo: [LinkedIn post](https://www.linkedin.com/posts/jim-hendrix-bag-eo_inspired-by-hyowons-work-on-messengerz-for-ugcPost-7429904469968056320-XoVg?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFLLzCsBl8wBO8dadU4EVqYqNymBuLRx2Wc)
+- Code: [GitHub repo](https://github.com/Hendrizzzz/Ghostify)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hendrizzzz&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+### [Quickpass](https://github.com/Hendrizzzz/Quickpass)
+Portable workspace app for USB-based workflows. Built around encryption, Playwright sessions, and fast local workspace launch.
+
+<p align="center">
+  <img src="Screenshot 2026-04-23 075703.png" alt="Quickpass preview" />
+</p>
+
+What I built:
+- USB-bound workspace unlock flow
+- AES-256-GCM + PBKDF2 encryption
+- Playwright-based browser session handling
+- Local temp sync and cleanup logic
+
+Links:
+- Code: [GitHub repo](https://github.com/Hendrizzzz/QuickPass)
+- Demo: coming soon
+- Writeup: [architecture notes](your-writeup-link)
+
+## Tech I use often
+
+Java, Spring Boot, JavaScript, Chrome Extensions, Electron, MySQL, PostgreSQL, Docker, Git, Bash
+
+## Contact
+
+- GitHub: [@Hendrizzzz](https://github.com/Hendrizzzz)
+- LinkedIn: https://www.linkedin.com/in/jim-hendrix-bag-eo/
+- Email: jimhendrixbageo@gmail.com
+
+
 
