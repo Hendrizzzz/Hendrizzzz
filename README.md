@@ -14,10 +14,12 @@ I like shipping things that solve annoying problems and figuring out the hard pa
 </p>
 
 <p align="center">
-  <a href="https://github.com/Hendrizzzz"><img src="https://img.shields.io/badge/GitHub-Hendrizzzz-181717?style=flat-square&logo=github" /></a>
   <a href="https://www.linkedin.com/in/jim-hendrix-bag-eo/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin" />
-  <a href="mailto:jimhendrixbageo@email.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail" /></a>
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:jimhendrixbageo@email.com"></a><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail" /></a>
+  <a href="https://discord.com/users/1263809203823186012" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=flat-square&logo=discord" />
+  </a>
 </p>
 
 ## What I’m strongest at
@@ -77,9 +79,10 @@ Java, Spring Boot, JavaScript, Chrome Extensions, PHP, Python, Kotlin, Electron,
 
 ## Contact
 
-- GitHub: [@Hendrizzzz](https://github.com/Hendrizzzz)
 - LinkedIn: https://www.linkedin.com/in/jim-hendrix-bag-eo/
 - Email: jimhendrixbageo@gmail.com
+- Discord: [hendrixzzz](https://discord.com/users/1263809203823186012)
+
 
 
 
