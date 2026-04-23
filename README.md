@@ -26,8 +26,8 @@ Java / Spring Boot, Chrome extensions, JS / browser internals, Electron, debuggi
 
 ## Currently building
 
-- OmniLaunch, a USB-based portable workspace app
-- Ghostify docs, demos, and polish
+- Quickpass, a USB-based portable workspace app
+- Ghostify docs, UIs, and polish
 - Social app rating
 
 ## Featured work
@@ -69,11 +69,11 @@ What I built:
 Links:
 - Code: [GitHub repo](https://github.com/Hendrizzzz/QuickPass)
 - Demo: coming soon
-- Writeup: [architecture notes](your-writeup-link)
+- Writeup: coming soon
 
 ## Tech I use often
 
-Java, Spring Boot, JavaScript, Chrome Extensions, Electron, MySQL, PostgreSQL, Docker, Git, Bash
+Java, Spring Boot, JavaScript, Chrome Extensions, PHP, Python, Kotlin, Electron, Playwright, MySQL, PostgreSQL, Docker, Git, Bash
 
 ## Contact
 
