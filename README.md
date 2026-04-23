@@ -73,6 +73,14 @@ Links:
 - Demo: coming soon
 - Writeup: coming soon
 
+---
+
+### [RateMyDorm Baguio](N/A)
+A mobile-first dorm review platform for SLU/Baguio students. Users can rate dorms, upvote/downvote reviews, and verify with school email.
+
+Currently in progress. I’m building it as a PWA first to keep it easy to open from FB/Messenger on mobile.
+
+
 ## Tech I use often
 
 Java, Spring Boot, JavaScript, Chrome Extensions, PHP, Python, Kotlin, Electron, Playwright, MySQL, PostgreSQL, Docker, Git, Bash
