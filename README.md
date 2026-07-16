@@ -34,7 +34,7 @@ Privacy-focused browser extension for Instagram, Facebook, and Messenger. Ghosti
 
 <p align="center">
   <a href="https://ghostify-extension.vercel.app/">
-    <img src="./large_tile_1400x560.png.png" alt="Ghostify preview" />
+    <img src="./large_tile_1400x560.png" alt="Ghostify preview" />
   </a>
 </p>
 
