@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hendrixxzx
+# Hi, I'm Hendrizzzz
 
 Computer Science student at Saint Louis University in Baguio, Philippines.  
 I build browser extensions, backend APIs, and local-first developer tools.
@@ -10,7 +10,7 @@ I like shipping practical software, especially tools that automate annoying work
 </div>
 
 <p align="center">
-  <img src="./cover.jpg" alt="Hendrix Reyes banner" />
+  <img src="./cover.jpg" alt="Hendrizzzz banner" />
 </p>
 
 <p align="center">
@@ -30,7 +30,11 @@ I like shipping practical software, especially tools that automate annoying work
 
 ### [Ghostify](https://github.com/Hendrizzzz/Ghostify)
 
-Privacy-focused browser extension for Instagram, Facebook, and Messenger. Ghostify gives users local controls for read receipts, typing indicators, and story view visibility without collecting personal data.
+MIT-licensed Manifest V3 privacy controls for supported Seen, Typing, and Story
+View signals on Instagram, Facebook, and Messenger web. Ghostify has 4,000+
+users listed on the Chrome Web Store and is also published through Microsoft
+Edge Add-ons. Its privacy controls run in the browser; the popup may fetch a
+public, display-only verification status.
 
 <p align="center">
   <a href="https://ghostify-extension.vercel.app/">
@@ -40,11 +44,11 @@ Privacy-focused browser extension for Instagram, Facebook, and Messenger. Ghosti
 
 What I built:
 
-- Published a Manifest V3 extension with 700+ Chrome users and a Microsoft Edge Add-ons listing
-- Built local-only privacy controls with no backend, account system, or user tracking
+- Published a Manifest V3 extension with 4,000+ users listed on the Chrome Web Store and a Microsoft Edge Add-ons listing
+- Built in-browser privacy controls that require no Ghostify account or social-media password
 - Implemented content scripts and declarative network rules for supported social platforms
 - Added browser-local settings storage for per-feature controls
-- Packaged Chromium builds with an ESBuild pipeline and modular service-worker/content-script structure
+- Added regression, packaging, and release checks for Chromium and Firefox targets
 - Built and deployed a public landing page for the extension
 
 Links:
