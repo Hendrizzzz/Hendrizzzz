@@ -38,7 +38,7 @@ public, display-only verification status.
 
 <p align="center">
   <a href="https://ghostify-extension.vercel.app/">
-    <img src="./large_tile_1400x560.png" alt="Ghostify preview" />
+    <img src="./ghostify-large-promo-story-focus.png" alt="Ghostify preview" />
   </a>
 </p>
 
